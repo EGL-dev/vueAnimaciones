@@ -57,7 +57,7 @@ section {
 }
 
 .roll-enter-active {
-  animation: roll-in .5s;
+  animation: roll-in .4s;
 }
 .roll-leave-active {
   animation: roll-in .5s reverse;
