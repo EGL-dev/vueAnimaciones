@@ -48,7 +48,7 @@ section {
   0% {
     transform: scale(0);
   }
-  50% {
+  60% {
     transform: scale(1.5);
   }
   100% {
